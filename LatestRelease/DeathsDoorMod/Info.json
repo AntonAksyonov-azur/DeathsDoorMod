@@ -1,0 +1,6 @@
+{
+  "Id": "DeathsDoorMod",
+  "DisplayName": "DeathsDoorMod",
+  "Version": "1.0.0",
+  "EntryMethod": "DeathsDoorMod.Main.Load"
+}
